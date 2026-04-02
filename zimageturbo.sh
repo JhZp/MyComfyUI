@@ -10,6 +10,9 @@ wget -O ComfyUI/models/text_encoders/z_image_turbo_text_encoder.safetensors http
 # VAE
 wget -O ComfyUI/models/vae/z_image_turbo_vae.safetensors https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/vae/ae.safetensors
 
+# ControlNet
+wget -P ComfyUI/models/controlnet  https://huggingface.co/alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union-2.1/resolve/main/Z-Image-Turbo-Fun-Controlnet-Union-2.1.safetensors
+
 # Loras
 wget -P ComfyUI/models/loras https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/loras/z_image_turbo_distill_patch_lora_bf16.safetensors
 
