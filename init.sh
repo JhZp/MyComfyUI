@@ -58,5 +58,5 @@ git clone https://github.com/rgthree/rgthree-comfy.git ComfyUI/custom_nodes/rgth
 git clone https://github.com/M1kep/ComfyLiterals.git ComfyUI/custom_nodes/ComfyLiterals
 
 # pythongosssss Expresion Matematica
-git clone https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git
+git clone https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git ComfyUI/custom_nodes/ComfyUI-Custom-Scripts
 
