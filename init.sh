@@ -48,6 +48,10 @@ pip install -r ComfyUI/custom_nodes/ComfyUI-YOLO/requirements.txt
 git clone https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler.git ComfyUI/custom_nodes/ComfyUI-SeedVR2_VideoUpscaler
 pip install -r ComfyUI/custom_nodes/ComfyUI-SeedVR2_VideoUpscaler/requirements.txt
 
+# QWEN VL vision
+git clone https://github.com/1038lab/ComfyUI-QwenVL.git ComfyUI/custom_nodes/ComfyUI-QwenVL
+pip install -r ComfyUI/custom_nodes/ComfyUI-QwenVL/requirements.txt
+
 # Advanced ControlNet
 git clone https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet.git ComfyUI/custom_nodes/ComfyUI-Advanced-ControlNet
 
@@ -59,4 +63,3 @@ git clone https://github.com/M1kep/ComfyLiterals.git ComfyUI/custom_nodes/ComfyL
 
 # pythongosssss Expresion Matematica
 git clone https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git ComfyUI/custom_nodes/ComfyUI-Custom-Scripts
-
