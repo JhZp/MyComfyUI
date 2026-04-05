@@ -61,5 +61,8 @@ git clone https://github.com/rgthree/rgthree-comfy.git ComfyUI/custom_nodes/rgth
 # ComfyLiterals: Manejo de variables simples
 git clone https://github.com/M1kep/ComfyLiterals.git ComfyUI/custom_nodes/ComfyLiterals
 
+# Save Metadata
+git clone https://github.com/nkchocoai/ComfyUI-SaveImageWithMetaData.git ComfyUI/custom_nodes/ComfyUI-SaveImageWithMetaData
+
 # pythongosssss Expresion Matematica
 git clone https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git ComfyUI/custom_nodes/ComfyUI-Custom-Scripts
